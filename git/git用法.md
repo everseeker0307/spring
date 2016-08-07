@@ -24,7 +24,7 @@
 				pom.xml
 				spring.iml
 >	
->	7.	git add.
+>   7.	git add.
 >	
 >			git add ./\*
 >			git add .idea/
