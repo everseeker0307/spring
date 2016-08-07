@@ -24,13 +24,13 @@
 				pom.xml
 				spring.iml
 				
-   7.	git add.
+  7.	git add.
 	
 			git add ./\*
 			git add .idea/
 			
-	8.	git commit -m "first commit"
+  8.	git commit -m "first commit"
 	
-	9.	上传到github.
+  9.	上传到github.
 	
 			git push origin master
