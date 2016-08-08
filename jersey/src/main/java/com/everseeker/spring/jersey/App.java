@@ -7,6 +7,8 @@ import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
 import org.glassfish.jersey.servlet.ServletContainer;
 
+import javax.ws.rs.container.ContainerResponseFilter;
+
 /**
  * Created by everseeker on 16/7/26.
  */
@@ -20,7 +22,7 @@ public class App {
         handler.addServlet(holder, "/*");
         handler.setInitParameter("contextConfigLocation", RootConfig.class.getName());
 
-        int port = 8080;
+        int port = 8900;
         Server server = new Server(port);
         server.setHandler(handler);
         server.start();
