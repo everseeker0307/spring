@@ -24,12 +24,14 @@
         <processorPath useClasspath="true" />
         <module name="cglib" />
         <module name="jersey" />
+        <module name="validator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cglib" target="1.5" />
       <module name="jersey" target="1.5" />
       <module name="spring" target="1.5" />
+      <module name="validator" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

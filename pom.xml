@@ -11,6 +11,7 @@
     <modules>
         <module>cglib</module>
         <module>jersey</module>
+        <module>validator</module>
     </modules>
 
     <properties>
