@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cglib/cglib.iml" filepath="$PROJECT_DIR$/cglib/cglib.iml" />
       <module fileurl="file://$PROJECT_DIR$/jersey/jersey.iml" filepath="$PROJECT_DIR$/jersey/jersey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locksupport/locksupport.iml" filepath="$PROJECT_DIR$/locksupport/locksupport.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring.iml" filepath="$PROJECT_DIR$/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/validator/validator.iml" filepath="$PROJECT_DIR$/validator/validator.iml" />
     </modules>
